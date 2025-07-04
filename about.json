@@ -1,0 +1,11 @@
+{
+  "name": "Discourse Node-RED Flow Renderer",
+  "component": true,
+  "about_url": "https://github.com/FlowFuse/discourse-flow-renderer",
+  "license_url": "https://github.com/FlowFuse/discourse-flow-renderer/blob/main/LICENSE",
+  "authors": "@knolleary/FlowFuse",
+  "theme_version": "1.0.0",
+  "assets": {
+    "flow_renderer": "assets/flow-renderer-0.4.1.min.js"
+  }
+}
