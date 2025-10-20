@@ -4,8 +4,8 @@
   "about_url": "https://github.com/FlowFuse/discourse-flow-renderer",
   "license_url": "https://github.com/FlowFuse/discourse-flow-renderer/blob/main/LICENSE",
   "authors": "@knolleary/FlowFuse",
-  "theme_version": "1.0.0",
+  "theme_version": "1.0.1",
   "assets": {
-    "flow_renderer": "assets/flow-renderer-0.4.1.min.js"
+    "flow_renderer": "assets/flow-renderer-0.5.0.min.js"
   }
 }
